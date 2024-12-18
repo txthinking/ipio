@@ -1,6 +1,6 @@
 # ipio
 
-> The CLI version of [Brook GUI](https://brook.app)
+> The CLI version of [Brook GUI](https://www.txthinking.com/brook.html)
 
 Proxy all traffic just one line command.
 
